@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "locale": "de_CH",
+  "pageTitle": "Aareserie",
+  "description": "Alles rund um die Aareserie.",
+  "baseHref": "",
+  "author": "Berner Zeitung",
+  "keywords": "Collection, Kanton Bern, Aare, Sommer",
+  "canonicalUrl": "https://www.tagesanzeiger.ch/18374394",
+  "image": "http://interaktiv.tagesanzeiger.ch/2019/zuerich-waehlt/teaser.jpg",
+  "site_name": "Berner Zeitung",
+  "twitterSite": "@bernerzeitung",
+  "twitterCreator": "@bernerzeitung",
+
+  # Shows a loader icon until the data is loaded
+  "showLoader": false,
+
+  # Enable this when the content will be embedded in an iframe
+  "isEmbeddable": false,
+}
