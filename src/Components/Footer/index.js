@@ -28,7 +28,11 @@ class Footer extends Component {
                 <tbody>
                   <tr style={{ paddingTop: '0.3em' }}>
                     <td>Konzept</td>
-                    <td>Marco Zysset</td>
+                    <td>Stephan Dietrich</td>
+                  </tr>
+                  <tr>
+                    <td>Texte</td>
+                    <td>Redaktion BZ</td>
                   </tr>
                   <tr>
                     <td>Digitale Umsetzung</td>
@@ -44,7 +48,7 @@ class Footer extends Component {
                     />
                     <div className='ui fluid share aligned container'>
                       <ShareButtons
-                        articleId='16267582'
+                        articleId='19111501'
                         displayType={displayTypes.VERTICAL_BUTTONS}
                       />
                     </div>

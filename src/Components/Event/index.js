@@ -6,7 +6,7 @@ import gallery from '../img'
 class Event extends Component {
   state = {
     index:1,
-    visibility: true
+    visibility: false
   };
 
 
