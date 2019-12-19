@@ -1,127 +1,331 @@
 [
   {
-    "date": "5.1.2019",
-    "headline": "5000 Franken mehr für Gotthelf Zentrum",
-    "text": "Bald soll das Gotthelf Zentrum in die Liste der regionalen Kulturinstitutionen aufgenommen werden. Der Gemeinderat hat nun beschlossen, den Beitrag für das Museum ab dem Jahr 2021 um 5000 Franken auf insgesamt 26500 Franken zu erhöhen. Dafür wurde das fakultative Finanzreferendum ausgeschrieben, das  noch bis am 17. November läuft.",
-    "image": "img01"
+    "date": "06.01.2019",
+    "headline": "Vor 100 Jahren schloss sich Bümpliz an Bern an",
+    "link": "https://www.bernerzeitung.ch/region/bern/buempliz-tickt-schon-anders/story/25421654",
+    "text": "100 Jahre Zweisamkeit. Dieses Jubiläum feierten in diesem Jahr Bern und Bümpliz. Die beiden Stadtteile sind heute  zusammengewachsen. Sie sind sich aber nach wie vor fremd. \"Bümpliz ist der Ort in der Stadt Bern, wo Entwicklungen passieren\", sagt Bernardo Albisetti von der Quartierkommission.",
+    "image": ""
   },
   {
-    "date": "11.1.2019",
-    "headline": "«Untermieter im Kopf»",
-    "text": "In der «Kultur ir Chäsi» hat die Zürcher Autorin Angela Suter aus ihrer Novelle «Untermieter im Kopf» vorgelesen. Es ist die Geschichte von Emma und Tim, die sich bei einer medizinischen Kontrolle in der Neurochirurgie treffen. Eine Geschichte, die nicht nur spannend ist, sondern auch an die Nieren geht.",
-    "image": "img02"
+    "date": "",
+    "headline": "SRG plant Verschiebung der Radiostudios von Bern nach Zürich",
+    "link": "https://www.bernerzeitung.ch/region/bern/der-berner-blick-auf-die-schweiz-ist-wichtig/story/16093060",
+    "text": "Das Lobbying von Stadt und Kanton sowie Vorstösse im nationalen Parlement konnten die SRG-Spitze nicht von ihrem Plan abbringen. Sie will die Nachrichtenredaktion von Bern an Zürich zügeln. Im Dezember waren die Entscheide dann gefallen. Aktuelle Nachrichten stammen künftig aus Zürich, genauso wie die digitalen Innovationen, mit denen SRF ein jüngeres Publikum erreichen will und in die das Medienunternehmen viel Geld investiert. Hintergründe und Analysen kommen aus Bern. 70 Mitarbeitende der Nachrichtenredaktion und von SRF 4 News zügeln von Bern nach Zürich, 230 SRG-Angestellte bleiben in Bern.",
+    "image": ""
   },
-    
-    {"date": "16.1.2019",
-    "headline": "Schüler als Strassenkinder",
-    "text": "Am Internationalen Tag der Kinderrechte vom 20. November engagieren sich zwei sechste Klassen der Schule Unterseen im Rahmen einer Solidaritätsaktion zugunsten der Kinderschutzprojekte von Terre des Hommes. An Ständen in Unterseen und Interlaken machen sie von 9 bis 15 Uhr auf die Kinderrechte aufmerksam, verkaufen selbst gebastelte Sachen, Kuchen oder Tee und putzen Schuhe, um Spenden zu sammeln. In Interlaken sind die Schülerinnen und Schüler beim Westbahnhof, bei der Buchhandlung Bödeli, beim Tchibo, bei der Confiserie Rieder und beim Zentrum Artos anzutreffen, in Unterseen beim Eingang des Spitals, bei der Bäckerei Michel, der Apothekte Busse, beim Coop und bei der Bäckerei Mohler.",
-    "image": "img03"},
-    
-    {"date": "3.2.2019",
-    "headline": "Toby Meyer spielt im EGW",
-    "text": "Am Donnerstag, 21.11., tritt der Liedermacher Toby Meyer im Evangelischen Gemeinschaftswerk (EGW) Spiez auf. Die Organisatoren versprechen «Lieder mit viel Tiefgang und Ehrlichkeit» sowie «authentische Texte, mitreissende Musik». Mit seinem Album «Freiheit – Mini Gschicht mit Gott» ist er in der Schweizer Album-Hitparade auf Platz 22 eingestiegen und nun mit über 300 Konzerten auf Schweizer Tournee. Das Konzert im EGW beginnt um 19.30 Uhr.",
-    "image": "Bild1"},
-    
-    {"date": "8.2.2019",
-    "headline": "Värslizyt in der Bödeli-Bibliothek",
-    "text": "Am Mittwoch, 27. November, 10–10.30 Uhr, können in der Bödeli-Bibliothek, Spielmatte 3, gemeinsam lustige Verse und Fingerspiele zum Thema Samichlaus und Weihnachtszeit entdeckt werden. Der Eintritt zu der Veranstaltung für Kleinkinder von einem bis drei Jahren und ihre Eltern oder Grosseltern ist frei.",
-    "image": "Bild1"},
-    
-    {"date": "15.2.2019",
-    "headline": "Ja zu 14 provisorischen Klassenzimmern",
-    "text": "Im Brünnenpark im Westen von Bern kann die Stadt provisorische Schulbauten erstellen. Das Berner Stimmvolk hat der Vorlage, die Kosten von 16,1 Millionen Franken vorsieht, mit 92,0 Prozent Ja-Stimmen zugestimmt. Der Bau von 14 provisorischen Klassenzimmern wird notwendig, weil die Stadt Bern in den nächsten 20 Jahren in den Schulkreisen Bümpliz und Bethlehem zahlreiche Schulhäuser renovieren muss.",
-    "image": "Bild1"},
-    
-    {"date": "25.2.2019",
-    "headline": "Autofahrer tödlich verunfallt",
-    "text": "In der Nacht auf Samstag verunfallte in Utzigen ein 65-jähriger Mann tödlich. Laut Kantonspolizei war das Auto auf der Utzigenstrasse in Richtung Boll unterwegs. Aus noch unbekannten Gründen kollidierte das Fahrzeug erst mit der Leitplanke auf der gegenüberliegenden Strassenseite, anschliessend mit parkierten Fahrzeugen. Ersthelfer kümmerten sich um den Mann. Trotz der Reanimationsmassnahmen starb er noch vor Ort. Die Polizei schliesst nicht aus, dass dem Unfall ein medizinisches Problem vorausging.",
-    "image": "Bild1"},
-    
-    {"date": "5.3.2019",
-    "headline": "Unbekannte greifen zwei Männer an",
-    "text": "Am Freitagabend wurden zwei Männer in der Stadt Bern von Unbekannten angegriffen und verletzt. Wie die Kantonspolizei mitteilte, waren die beiden Männer gegen 21:30 Uhr von der Schützenmatte her in Richtung Bahnhof unterwegs. Als sie den Fussgängerstreifen überquerten, wurden sie von vier Männern unvermittelt angegriffen und mit Schlägen traktiert. Die Unbekannten flohen danach in Richtung Bahnhof. Passanten begleiteten nach dem Vorfall die angegriffenen Männer in eine Apotheke, einer von ihnen begab sich später in ein Spital. Die Polizei sucht Zeugen.",
-    "image": "Bild1"},
-    {
-      "date": "5.1.2019",
-      "headline": "5000 Franken mehr für Gotthelf Zentrum",
-      "text": "Bald soll das Gotthelf Zentrum in die Liste der regionalen Kulturinstitutionen aufgenommen werden. Der Gemeinderat hat nun beschlossen, den Beitrag für das Museum ab dem Jahr 2021 um 5000 Franken auf insgesamt 26500 Franken zu erhöhen. Dafür wurde das fakultative Finanzreferendum ausgeschrieben, das  noch bis am 17. November läuft.",
-      "image": "Bild1"
-    },
-    {
-      "date": "11.1.2019",
-      "headline": "«Untermieter im Kopf»",
-      "text": "In der «Kultur ir Chäsi» hat die Zürcher Autorin Angela Suter aus ihrer Novelle «Untermieter im Kopf» vorgelesen. Es ist die Geschichte von Emma und Tim, die sich bei einer medizinischen Kontrolle in der Neurochirurgie treffen. Eine Geschichte, die nicht nur spannend ist, sondern auch an die Nieren geht.",
-      "image": "Bild2"
-    },
-      
-      {"date": "16.1.2019",
-      "headline": "Schüler als Strassenkinder",
-      "text": "Am Internationalen Tag der Kinderrechte vom 20. November engagieren sich zwei sechste Klassen der Schule Unterseen im Rahmen einer Solidaritätsaktion zugunsten der Kinderschutzprojekte von Terre des Hommes. An Ständen in Unterseen und Interlaken machen sie von 9 bis 15 Uhr auf die Kinderrechte aufmerksam, verkaufen selbst gebastelte Sachen, Kuchen oder Tee und putzen Schuhe, um Spenden zu sammeln. In Interlaken sind die Schülerinnen und Schüler beim Westbahnhof, bei der Buchhandlung Bödeli, beim Tchibo, bei der Confiserie Rieder und beim Zentrum Artos anzutreffen, in Unterseen beim Eingang des Spitals, bei der Bäckerei Michel, der Apothekte Busse, beim Coop und bei der Bäckerei Mohler.",
-      "image": "Bild3"},
-      
-      {"date": "3.2.2019",
-      "headline": "Toby Meyer spielt im EGW",
-      "text": "Am Donnerstag, 21.11., tritt der Liedermacher Toby Meyer im Evangelischen Gemeinschaftswerk (EGW) Spiez auf. Die Organisatoren versprechen «Lieder mit viel Tiefgang und Ehrlichkeit» sowie «authentische Texte, mitreissende Musik». Mit seinem Album «Freiheit – Mini Gschicht mit Gott» ist er in der Schweizer Album-Hitparade auf Platz 22 eingestiegen und nun mit über 300 Konzerten auf Schweizer Tournee. Das Konzert im EGW beginnt um 19.30 Uhr.",
-      "image": "Bild1"},
-      
-      {"date": "8.2.2019",
-      "headline": "Värslizyt in der Bödeli-Bibliothek",
-      "text": "Am Mittwoch, 27. November, 10–10.30 Uhr, können in der Bödeli-Bibliothek, Spielmatte 3, gemeinsam lustige Verse und Fingerspiele zum Thema Samichlaus und Weihnachtszeit entdeckt werden. Der Eintritt zu der Veranstaltung für Kleinkinder von einem bis drei Jahren und ihre Eltern oder Grosseltern ist frei.",
-      "image": "Bild1"},
-      
-      {"date": "15.2.2019",
-      "headline": "Ja zu 14 provisorischen Klassenzimmern",
-      "text": "Im Brünnenpark im Westen von Bern kann die Stadt provisorische Schulbauten erstellen. Das Berner Stimmvolk hat der Vorlage, die Kosten von 16,1 Millionen Franken vorsieht, mit 92,0 Prozent Ja-Stimmen zugestimmt. Der Bau von 14 provisorischen Klassenzimmern wird notwendig, weil die Stadt Bern in den nächsten 20 Jahren in den Schulkreisen Bümpliz und Bethlehem zahlreiche Schulhäuser renovieren muss.",
-      "image": "Bild1"},
-      
-      {"date": "25.2.2019",
-      "headline": "Autofahrer tödlich verunfallt",
-      "text": "In der Nacht auf Samstag verunfallte in Utzigen ein 65-jähriger Mann tödlich. Laut Kantonspolizei war das Auto auf der Utzigenstrasse in Richtung Boll unterwegs. Aus noch unbekannten Gründen kollidierte das Fahrzeug erst mit der Leitplanke auf der gegenüberliegenden Strassenseite, anschliessend mit parkierten Fahrzeugen. Ersthelfer kümmerten sich um den Mann. Trotz der Reanimationsmassnahmen starb er noch vor Ort. Die Polizei schliesst nicht aus, dass dem Unfall ein medizinisches Problem vorausging.",
-      "image": "Bild1"},
-      
-      {"date": "5.3.2019",
-      "headline": "Unbekannte greifen zwei Männer an",
-      "text": "Am Freitagabend wurden zwei Männer in der Stadt Bern von Unbekannten angegriffen und verletzt. Wie die Kantonspolizei mitteilte, waren die beiden Männer gegen 21:30 Uhr von der Schützenmatte her in Richtung Bahnhof unterwegs. Als sie den Fussgängerstreifen überquerten, wurden sie von vier Männern unvermittelt angegriffen und mit Schlägen traktiert. Die Unbekannten flohen danach in Richtung Bahnhof. Passanten begleiteten nach dem Vorfall die angegriffenen Männer in eine Apotheke, einer von ihnen begab sich später in ein Spital. Die Polizei sucht Zeugen.",
-      "image": "Bild1"},
-      {
-        "date": "5.1.2019",
-        "headline": "5000 Franken mehr für Gotthelf Zentrum",
-        "text": "Bald soll das Gotthelf Zentrum in die Liste der regionalen Kulturinstitutionen aufgenommen werden. Der Gemeinderat hat nun beschlossen, den Beitrag für das Museum ab dem Jahr 2021 um 5000 Franken auf insgesamt 26500 Franken zu erhöhen. Dafür wurde das fakultative Finanzreferendum ausgeschrieben, das  noch bis am 17. November läuft.",
-        "image": "Bild1"
-      },
-      {
-        "date": "11.1.2019",
-        "headline": "«Untermieter im Kopf»",
-        "text": "In der «Kultur ir Chäsi» hat die Zürcher Autorin Angela Suter aus ihrer Novelle «Untermieter im Kopf» vorgelesen. Es ist die Geschichte von Emma und Tim, die sich bei einer medizinischen Kontrolle in der Neurochirurgie treffen. Eine Geschichte, die nicht nur spannend ist, sondern auch an die Nieren geht.",
-        "image": "Bild2"
-      },
-        
-        {"date": "16.1.2019",
-        "headline": "Schüler als Strassenkinder",
-        "text": "Am Internationalen Tag der Kinderrechte vom 20. November engagieren sich zwei sechste Klassen der Schule Unterseen im Rahmen einer Solidaritätsaktion zugunsten der Kinderschutzprojekte von Terre des Hommes. An Ständen in Unterseen und Interlaken machen sie von 9 bis 15 Uhr auf die Kinderrechte aufmerksam, verkaufen selbst gebastelte Sachen, Kuchen oder Tee und putzen Schuhe, um Spenden zu sammeln. In Interlaken sind die Schülerinnen und Schüler beim Westbahnhof, bei der Buchhandlung Bödeli, beim Tchibo, bei der Confiserie Rieder und beim Zentrum Artos anzutreffen, in Unterseen beim Eingang des Spitals, bei der Bäckerei Michel, der Apothekte Busse, beim Coop und bei der Bäckerei Mohler.",
-        "image": "Bild3"},
-        
-        {"date": "3.2.2019",
-        "headline": "Toby Meyer spielt im EGW",
-        "text": "Am Donnerstag, 21.11., tritt der Liedermacher Toby Meyer im Evangelischen Gemeinschaftswerk (EGW) Spiez auf. Die Organisatoren versprechen «Lieder mit viel Tiefgang und Ehrlichkeit» sowie «authentische Texte, mitreissende Musik». Mit seinem Album «Freiheit – Mini Gschicht mit Gott» ist er in der Schweizer Album-Hitparade auf Platz 22 eingestiegen und nun mit über 300 Konzerten auf Schweizer Tournee. Das Konzert im EGW beginnt um 19.30 Uhr.",
-        "image": "Bild1"},
-        
-        {"date": "8.2.2019",
-        "headline": "Värslizyt in der Bödeli-Bibliothek",
-        "text": "Am Mittwoch, 27. November, 10–10.30 Uhr, können in der Bödeli-Bibliothek, Spielmatte 3, gemeinsam lustige Verse und Fingerspiele zum Thema Samichlaus und Weihnachtszeit entdeckt werden. Der Eintritt zu der Veranstaltung für Kleinkinder von einem bis drei Jahren und ihre Eltern oder Grosseltern ist frei.",
-        "image": "Bild1"},
-        
-        {"date": "15.2.2019",
-        "headline": "Ja zu 14 provisorischen Klassenzimmern",
-        "text": "Im Brünnenpark im Westen von Bern kann die Stadt provisorische Schulbauten erstellen. Das Berner Stimmvolk hat der Vorlage, die Kosten von 16,1 Millionen Franken vorsieht, mit 92,0 Prozent Ja-Stimmen zugestimmt. Der Bau von 14 provisorischen Klassenzimmern wird notwendig, weil die Stadt Bern in den nächsten 20 Jahren in den Schulkreisen Bümpliz und Bethlehem zahlreiche Schulhäuser renovieren muss.",
-        "image": "Bild1"},
-        
-        {"date": "25.2.2019",
-        "headline": "Autofahrer tödlich verunfallt",
-        "text": "In der Nacht auf Samstag verunfallte in Utzigen ein 65-jähriger Mann tödlich. Laut Kantonspolizei war das Auto auf der Utzigenstrasse in Richtung Boll unterwegs. Aus noch unbekannten Gründen kollidierte das Fahrzeug erst mit der Leitplanke auf der gegenüberliegenden Strassenseite, anschliessend mit parkierten Fahrzeugen. Ersthelfer kümmerten sich um den Mann. Trotz der Reanimationsmassnahmen starb er noch vor Ort. Die Polizei schliesst nicht aus, dass dem Unfall ein medizinisches Problem vorausging.",
-        "image": "Bild1"},
-        {"date": "5.3.2019",
-        "headline": "Unbekannte greifen zwei Männer an",
-        "text": "Am Freitagabend wurden zwei Männer in der Stadt Bern von Unbekannten angegriffen und verletzt. Wie die Kantonspolizei mitteilte, waren die beiden Männer gegen 21:30 Uhr von der Schützenmatte her in Richtung Bahnhof unterwegs. Als sie den Fussgängerstreifen überquerten, wurden sie von vier Männern unvermittelt angegriffen und mit Schlägen traktiert. Die Unbekannten flohen danach in Richtung Bahnhof. Passanten begleiteten nach dem Vorfall die angegriffenen Männer in eine Apotheke, einer von ihnen begab sich später in ein Spital. Die Polizei sucht Zeugen.",
-        "image": "Bild1"}
+  {
+    "date": "12.01.2019",
+    "headline": "Tod in der Zelle wirft Fragen auf",
+    "link": "mib",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "12.01.2019",
+    "headline": "Sechs junge Menschen verlieren in Schweden ihr Leben",
+    "link": "https://www.bernerzeitung.ch/region/oberland/2400-menschen-sagten-adieu/story/26940767",
+    "text": "Just am Wochende der Weltcuprennen in Adelboden sterben in Schweden fünf Adelbodner und ein weiterer junger Schweizer bei einem schweren Verkehrsunfall. Die Jugendlichen kollidierten mit ihrem Fahrzeug frontal mit einem Lastwagen.",
+    "image": ""
+  },
+  {
+    "date": "15.01.2019",
+    "headline": "Langenthal erhält den Wakkerpreis",
+    "link": "https://www.langenthalertagblatt.ch/region/oberaargau/langenthal-erhaelt-den-wakkerpreis-2019/story/11878229",
+    "text": "Langenthal gewinnt den Wakkerpreis 2019 - für viele unerwartet, selbst für den Gemeinderat und Stadtbaumeister. Die Ehrung zeige jedoch, wie sorgsam die Stadt mit ihrem industriellen Erbe umgehe und wie viel Innovationsfreude sie bei neuen Bauprojekten habe.",
+    "image": "MOS41361"
+  },
+  {
+    "date": "15.01.2019",
+    "headline": "Bern Welcome in der Krise. Martin Bachofner wird durch Manuela Angst ersetzt.",
+    "link": "hae",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "10.02.2019",
+    "headline": "Berner Volk sagt nein zum Energiegesetz",
+    "link": "https://www.bernerzeitung.ch/region/kanton-bern/das-geschaeft-kam-wohl-als-etatistisch-und-lustfeindlich-an/story/10121257",
+    "text": "Mit knappen 50,6 Prozent lehnt das Berner Stimmvolk das neue kantonale Energiegesetz ab. Das Gesetz sah strengere Vorschriften für Ölheizungen und Eigenstromproduktion vor. Der Hauseigentümerverband und die Wirtschaftsverbände hatten das Referendum ergriffen, weil sie Mehrkosten und Bürokratisierung fürchteten.",
+    "image": ""
+  },
+  {
+    "date": "16.02.2019",
+    "headline": "Auszeichnung für Lo & Leduc",
+    "link": "https://www.bernerzeitung.ch/magazin/079-wurde-es-nicht/story/12909475",
+    "text": "Sechsfach Platin für «079» und doch reichte es nicht zur Auszeichnung zum Best Hit an den Swiss Music Awards. Lo&Leduc gingen trotzdem nicht leer aus. Das Berner Duo wurde als Best Group (Als Band des Jahres?) ausgezeichnet. Den Stein für den besten Song mussten die beiden übrigens an den Latinosänger Loco Escrito für «Adiós» abgeben. Auch Steffe la Cheffe räumte ab. Sie bekam die Trophäe für als Best Female Act (als Musikerin des Jahres?), womit der Bernerin mit ihrem Album «Härz Schritt Macherin» das Comeback nach einer fünfjährigen Schaffenspause geglückt ist.",
+    "image": "RAH0760"
+  },
+  {
+    "date": "28.02.2019",
+    "headline": "22 Millionen Franken Busse für Berner Kiesfirmen",
+    "link": "",
+    "text": "Die Wettbewerbskommission büst die beiden Berner Kiesfirmen Alluvia und Kästli mit Bussen von insgesamt 22 Millionen Franken. Die beiden Unternehmen sollen über Jahre miteinander Preise abgesprochen sowie Liefergebiete aufgeteilt haben. Beide Firmen bestreiten die Vorwürfe und ziehen das Verfahren vor Bundesverwaltungsgericht weiter.",
+    "image": ""
+  },
+  {
+    "date": "13.03.2019",
+    "headline": "Der beste Abfahrer heisst Beat Feuz",
+    "link": "https://www.bernerzeitung.ch/sport/wintersport/der-grosse-showdown-um-die-kleine-kugel/story/19383995",
+    "text": "Beat Feuz verpasste an der Weltmeisterschaft den Medaillengewinn. Dafür sicherte er sich die Kristallkugel für den besten Abfahrer der Saison.",
+    "image": ""
+  },
+  {
+    "date": "15.03.2019",
+    "headline": "8000 demonstrieren in Bern für besseres Klima.",
+    "link": "Mit einem einsamen Schulstreik von Greta Thunberg in Stockholm hatte alles angefangen. Im Frühling kam es zu ersten Schülerdemo gegen den Klimawandel. Und am 29. September fand die nationale Klimademo in Bern mit zehntausenden Teilnehmerinnen und Teilnehmern statt.",
+    "text": "Am 29.9. kommt es zu einer nationalen Grossdemo",
+    "image": ""
+  },
+  {
+    "date": "19.03.2019",
+    "headline": "Viel mehr Lohn für BKW-Chefin",
+    "link": "https://www.bernerzeitung.ch/region/kanton-bern/die-bkwchefin-kassiert-2-millionen-franken/story/16886982",
+    "text": "Der Lohn von BKW-Chefin Suzanne Thoma steigt auf 2,031 Millionen Franken. Das sind fast 700000 Franken mehr als im Vorjahr. Im Grossen Rat gibt es viel Kritik von links und rechts. Der Regierungsrat lässt daraufhin überprüfen, was er gegen hohe Löhne bei staatsnahen Betrieben unternehmen kann.",
+    "image": ""
+  },
+  {
+    "date": "23.03.2019",
+    "headline": "SCL Tigers schrammen knapp am grossen Coup vorbei",
+    "link": "https://www.bernerzeitung.ch/sport/die-scl-tigers-haben-eine-riesige-chance-verpasst/story/23788268",
+    "text": "Erst zum zweiten Mal konnten sich die SCL Tigers im NLA-Eishockey fürs Playoff qualifizieren. Gegen Lausanne kamen die Emmentaler zu ihren ersten Playoffsiegen, sie verpassten allerdings den Einzug in die Halbfinals.",
+    "image": ""
+  },
+  {
+    "date": "03.04.2019",
+    "headline": "Langenthal ist NLB-Meister im Eishockey",
+    "link": "https://www.bernerzeitung.ch/region/oberaargau/langenthal-ist-in-festlaune/story/26938954",
+    "text": "Der SC Langenthal ist Meister der Swiss League - zum dritten Mal in nur sieben Jahren. Die Mannschafte spielte sich in der vier Finalpartien gegen La Chaux-de-Fonds in einen Rausch. Der SCL verzichtete aber auf die Aufstiegsspiele.",
+    "image": "BGM7441"
+  },
+  {
+    "date": "13.04.2019",
+    "headline": "YB bleibt die Nummer 1",
+    "link": "https://www.bernerzeitung.ch/region/bern/24-stunden-nach-dem-titel-laufen-die-sofameister-nochmals-heiss/story/10740076",
+    "text": "Die Young Boys schauten am Samstag im TV wie sie Meister wurden und feierten danach mit den Fans den Titel. Am Sonntag reisten sie schliesslich nach Zürich und gewannen ein bedeutungsloses Spiel 1:0.",
+    "image": ""
+  },
+  {
+    "date": "20.04.2019",
+    "headline": "SC Bern ist Eishockey-Meister",
+    "link": "https://www.bernerzeitung.ch/sport/hockey/die-scbmeisterhelden-von-jaeger-almquist-bis-dj-untersander/story/27428253",
+    "text": "Bern stellt auch im Eishockey den Schweizer Meister. Der SC Bern gewinnt die Playoff-Final-Serie gegen Zug und feiert den 16. Titel in der Vereinsgeschichte.",
+    "image": ""
+  },
+  {
+    "date": "29.04.2019",
+    "headline": "Bern investiert eine Viertelmilliarde in Kultur",
+    "link": "https://www.bernerzeitung.ch/region/bern/museumsquartier-soll-fuer-250-millionen-franken-aufgewertet-werden/story/13235144",
+    "text": "Bern denkt Gross: Stadt, Kanton und Burgergemeinde wollen 250 Millionen Franken in die Museen im Kirchenfeldquartier investieren. Mit einem gemeinsamen Auftritt soll sich die Zahl der Besucherinnen und Besucher verdoppeln.",
+    "image": "aa156344425744520DBE0505zbmuseum"
+  },
+  {
+    "date": "18.05.2019",
+    "headline": "Das Baumhaus in Schüpfen stört",
+    "link": "https://www.bernerzeitung.ch/articles/12534062",
+    "text": "Nicole und Ueli Marbot müssen das Baumhaus, das sie für ihre drei Kinder errichtet haben, zurückbauen. Über ein Jahr kämpfen sie gegen die Behörden, damit das Spielhaus am Waldrand neben ihrem Bauernbetrieb bleiben kann. Doch ihre Mühe ist umsonst. Nach langem Hin und Her zwischen kantonalen und kommunalen Ämtern folgt der Entscheid der Gemeinde Schüpfen: Das Baumhaus muss weg.",
+    "image": "Baumhaus_1"
+  },
+  {
+    "date": "18.05.2019",
+    "headline": "Hänni begeistert am ESC",
+    "link": "https://www.bernerzeitung.ch/articles/25771876",
+    "text": "Die Schweiz war für einmal die coolste Socke im Raum. Mehr Power als Luca Hänni hatte am Eurovision Song Contest sonst niemand. Der Song «She Got Me» war aufregend, die Choreografie eine Wucht, die Inszenierung top und Luca Hännis Auftritte federermässig sympathisch. Gereicht hat es zwar nur für Platz vier. Trotzdem: ein sehenswertes Resultat, schliesslich das beste seit 1993.",
+    "image": "aa156344483710820DZH0101sblucahaennifront"
+  },
+  {
+    "date": "19.05.2019",
+    "headline": "Berner Stimmvolk lehnt das Sozialhilfegesetz ab",
+    "link": "https://www.bernerzeitung.ch/articles/26419678",
+    "text": "Der Angriff der bürgerlichen Parteien auf die Sozialhilfe scheitert: Das Berner Stimmvolk lehnt die vorgesehenen Leistungskürzungen an der Urne mit 52,6 Prozent ab. Für SVP-Regierungsrat Pierre Alain Schnegg ist es eine herbe Niederlage.",
+    "image": ""
+  },
+  {
+    "date": "28.05.2019",
+    "headline": "Nackenschläge nach dem Coiffeurbesuch",
+    "link": "https://www.bernerzeitung.ch/articles/13759453",
+    "text": "An der Schule Kirchlindach-Herrenschwanden wird ein fragwürdiges Ritual aufgedeckt: Schülerinnen und Schüler die beim Coiffeur gewesen waren, erhielten angeblich am nächsten Tag Schläge auf den Nacken. Das Coiffeurritual wurde von den Kindern heimlich unter Druck praktiziert. Die Schulleitung ergreift Massnahmen und schreibt einen Brief an die Eltern. Das Ritual wird verboten.",
+    "image": "aa190225152733BAZ2002BILMobbing"
+  },
+  {
+    "date": "05.06.2019",
+    "headline": "Rammstein spielt im Stade de Suisse",
+    "link": "https://www.bernerzeitung.ch/kultur/pop-und-jazz/das-ist-ja-nur-spektakel-aber-was-fuer-eins/story/23246212",
+    "text": "Schall und Rauch, Feuer, Feuer, Feuer, Tonnen von Material und 43 000 Zuschauer. Das Rammstein-Konzert im Stade des Suisse Anfang Juni war ganz sicher die grösse Kiste des Jahres und ein idealer Festival-Sommer-Auftakt.",
+    "image": "aa20190605Rammstein002"
+  },
+  {
+    "date": "",
+    "headline": "Das Garagentor-Drama",
+    "link": "",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "15.06.2019",
+    "headline": "Frauenstreik",
+    "link": "https://www.bernerzeitung.ch/region/bern/frauenstreik-das-grosse-beben/story/29124010",
+    "text": "Der landesweite Frauenstreik sorgt auch in der Stadt Bern für eine der grössten Demonstrationen ihrer Geschichte. Rund 40'000 Teilnehmerinnen und Teilnehmer bilden eine Schlange vom Bundesplatz bis zur Nydeggbrücke und wieder zurück. Sie demonstrieren unter anderem für Lohngleichheit und eine höhere gesellschaftliche Anerkennung von Frauenarbeit.",
+    "image": ""
+  },
+  {
+    "date": "19.06.2019",
+    "headline": "Keine Chance für Sauberkeitsrappen",
+    "link": "sny",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "20.06.2019",
+    "headline": "Der neue KTB-Intendant heisst Florian Scholz",
+    "link": "https://www.bernerzeitung.ch/region/bern/florian-scholz-springt-ins-kalte-wasser/story/31728397",
+    "text": "Der neue Intendant am Konzert Theater Bern heisst Florian Scholz. Er wird 2021 nach einer längeren Interimsphase Nachfolger von Stephan Märki, der das Haus 2018 verlassen musste. Der Deutsche Scholz kommt aus Klagenfurt nach Bern.",
+    "image": "MOS16261"
+  },
+  {
+    "date": "22.06.2019",
+    "headline": "Formel E in Bern (inkl. voher/nachher)",
+    "link": "sny",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "28.06.2019",
+    "headline": "In Bern wird 50 Jahre Mondlandung gefeiert",
+    "link": "sny",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "01.07.2019",
+    "headline": "10 Jahre rauchfreie Beizen",
+    "link": "https://www.bernerzeitung.ch/region/kanton-bern/und-ploetzlich-war-das-nichtrauchen-normal/story/11845700",
+    "text": "Das Rauchverbot in Berner Restaurants und Bars feiert sein zehnjähriges Jubiläum. Vor seiner Einführung war das Verbot politisch höchst umstritten. Heute sind rauchfreie Zonen im öffentlichen Raum zu einer Selbstverständlichkeit geworden.",
+    "image": ""
+  },
+  {
+    "date": "12.07.2019",
+    "headline": "Bauernhausbrand in Alchenstorf",
+    "link": "",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "",
+    "headline": "Gipfeli-Gate am Gurtenfestival",
+    "link": "https://www.bernerzeitung.ch/region/bern/doch-noch-frische-gipfeli-fuer-die-festivalbesucher/story/21893834",
+    "text": "Ein Skandal! Auf dem Heimweg vom Gurten standen die Nachtschwärmer vor der Bäckerei Aegerter plötzlich nicht mehr Schlange sondern vor geschlossenen Türen. Der Grund: Jakob und Barbara Aegerter hatten vergeblich versucht, zu einer Bewilligung für den frühmorgendlichen Verkauf zu kommen. Doch der Skandal wendete sich zu einem Happy End. Nach der grossen Entrüstung bei den Besuchern stellte Regierungsstatthalter Christoph Lerch eine Bewilligung im Schnellverfahren aus. So kamen die Festivalbesucher an den letzten zwei Festivaltagen wieder zu ihren Schinkengipfeli.",
+    "image": "aa20190716BaeckereiAegerter003"
+  },
+  {
+    "date": "17.07.2019",
+    "headline": "Ein junger psychisch angeschlagener Mann wird von der Polizei in Bern erschossen",
+    "link": "mib",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "20.07.2019",
+    "headline": "Der ehemalige YB-Präsi Ruedi Baer ist gestorben",
+    "link": "sny",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "",
+    "headline": "Wie Berns Finanzaffäre den Veloboom beflügelte",
+    "link": "hae",
+    "text": "Beitrag zur Aareserie",
+    "image": ""
+  },
+  {
+    "date": "15.08.2019",
+    "headline": "Chaotsiche Stadtratsabstimmung im Exil",
+    "link": "hae",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "23.08.2019",
+    "headline": "Das schönste Dorf der Schweiz heisst Trub",
+    "link": "https://www.bernerzeitung.ch/region/emmental/trub-ist-das-schoenste-dorf-der-schweiz/story/31264315",
+    "text": "Die Truber gerieten vor Freude aus dem Häuschen, als die Schweizer Illustrierte verkündete, dass ihr Dorf das schönste der Schweiz.",
+    "image": ""
+  },
+  {
+    "date": "25.08.2019",
+    "headline": "Christian Stucki ist Schwingerkönig",
+    "link": "https://www.bernerzeitung.ch/sport/weitere/aus-der-komfortzone-zum-koenigstitel/story/11444869",
+    "text": "Zum vierten Mal in Serie stellen die Berner den Schwingerkönig. Christian Stucki dämpfte im Schlussgang in Zug die Hoffnungen der Innerschweizer, indem er Joel Wicki ins Sägemehl bettete.",
+    "image": ""
+  },
+  {
+    "date": "29.08.2019",
+    "headline": "Verwaltungsgericht bestätigt, dass Moutier-Abstimmung wiederholt werden muss",
+    "link": "https://www.bernerzeitung.ch/bern/bundesgericht-und-zweite-abstimmung-das-blueht-moutier/story/20954526",
+    "text": "Nach der Regierungsstatthalterin annuliert nun auch das Verwaltungsgericht Moutiers Wechsel zum Kanton Jura. Die Stadtbehörden haben bei der Abstimmung von 2017 Vorschriften verletzt, finden die Richter. Die Separatisten ziehen das Urteil nicht ans Bundesgericht weiter. Sie plädieren stattdessen für eine rasche Wiederholung der Abstimmung.",
+    "image": ""
+  },
+  {
+    "date": "06.09.2019",
+    "headline": "Eröffnung Casino Bern",
+    "link": "https://www.bernerzeitung.ch/region/bern/casinochips-und-gold-fuers-volk/story/20978146",
+    "text": "Wenn sich der Staub legt: Die Burgergemeinde eröffnet gründlich sanierten Prunkbau wieder: 78 Millionen hat die Erneuerung des Casinos gekostet. Eröffnet wird mit dem Berner Symphonieorchester und mit einem ausufernden Stephan-Eicher-Abend. Das Casino will jetzt mehr sein als ein Klassik-Tempel und sich für andere Stile und Sparten öffnen. Zu reden gab nicht nur das neue Gastronomie-Konzept von Ivo Adam, sondern auch die schönste Damen-Toilette der Stadt Bern.",
+    "image": "chp3563"
+  },
+  {
+    "date": "25.09.2019",
+    "headline": "Das Gezänk um die Umfahrung Emmental ist zu Ende",
+    "link": "https://www.bernerzeitung.ch/articles/21099307",
+    "text": "400 Millionen Franken dürfte der Bau der Verkehrssanierung Emmental kosten. Der Kanton kann das Projekt nicht allein stemmen. Der Nationalrat sagte Ja zu einem Bundesbeitrag von 96 Millionen Franken. Der Ständerat wollte nichts wissen vom Umfahrungstunnel Oberburg und reduzierte den Beitrag auf 19 Millionen. Die Einigungskonferenz entschied sich für die Maximalvariante. Der Kanton muss aber nachbessern.",
+    "image": "Visu-Oberburg-Kreisel-Nord-Web"
+  },
+  {
+    "date": "02.10.2019",
+    "headline": "Kambundji gewinnt WM-Bronze",
+    "link": "https://www.bernerzeitung.ch/articles/29355996",
+    "text": "Mujinga Kambundji verewigt sich in der Schweizer Leichtathleik-Geschichte. Als erste Schweizerin gewinnt die 27-Jährige über 200 Meter eine WM-Medaille im Sprint.",
+    "image": ""
+  },
+  {
+    "date": "13.10.2019",
+    "headline": "Im Gantrischgebiet soll ein Bärenpark entstehen",
+    "link": "",
+    "text": "Der Tierpark und der Verein Gantrischplus wollen zusammen mehr Lebensraum für das Berner Wappentier schaffen. Während in der Stadt Bern eine Erweiterung beim Hang am Muristalden angedacht ist, sollen die älteren Bären im Gantrischgebiet angesiedelt werden. Ob das Bären-Altersheim zustande kommt ist allerdings noch unklar. Zwei Standorte stehen noch in der Auswahl: Riggisberg und Schwarzenburg.",
+    "image": ""
+  },
+  {
+    "date": "20.10.2019",
+    "headline": "Nationalratswahlen + Ständerat inkl. 2. Wahlgang",
+    "link": "",
+    "text": "Die Grünen legen bei den eidgenössischen Wahlen massiv zu. Im Kanton Bern ist insbesondere der Ausgang des ersten Wahlgangs im Rennen um die beiden Ständeratssitze überraschend. Mit Hans Stöckli (SP) und Regula Rytz (Grüne) liegen zwei linke vorne. Beim zweiten Wahlgang schnappt allerdings Werner Salzmann (SVP) Rytz den Sitz doch noch weg.",
+    "image": "aa156353151192520DBE0707sbBaerenCombo2"
+  },
+  {
+    "date": "",
+    "headline": "Chaos um IPads in Berns Schulen",
+    "link": "king",
+    "text": "",
+    "image": ""
+  },
+  {
+    "date": "01.11.2019",
+    "headline": "Mit der viertuellen Airline FlyBair soll der Flughafen Bern-Belp belebt werden",
+    "link": "",
+    "text": "Der Flughafen Bern-Belp fand seit dem Grounding von Skywork keinen Anbieter von Linienflügen. So steigt er mit der virtuellen Airline Flybair kurzerhand selber ins Geschäft ein. Und setzt bei der Finanzierung auf das Wohlwollen der Berner Bevölkerung. Dank vieler kleiner Beiträgen war das Crowdfunding erfolgreich: Innerhalb eines Monats  wurde 1 Million Franken gesammelt. Das Totaltziel von 2,5 Millionen Franken ist bis jetzt noch nicht erreicht worden. Dafür bleib noch Zeit bis Januar.",
+    "image": "chp3026"
+  },
+  {
+    "date": "11.12.2019",
+    "headline": "Regula Rytz ist chancenlos",
+    "link": "",
+    "text": "Bei den Bundesratswahlen bleiben die Grünen aussen vor. Regula Rytz (Grüne) kommt gerade mal auf 82 Stimmen, während Ignazio Cassis (FDP) mit 145 Stimmen wiedergewählt wird. Die Grünen sprechen im Nachgang von ungerechtfertigtem Machterhalt, die etablierten Parteien von Stabilität. Klar ist aber allen: Die heutige Zauberformel ist Geschichte.",
+    "image": ""
+  },
+  {
+    "date": "20.12.2019",
+    "headline": "Abschaltung Mühleberg",
+    "link": "",
+    "text": "Ein historischer Tag für die Energiewende: Das Atomkraftwerk Mühleberg geht für immer vom Netz. Es ist das erste AKW der Schweiz, das abgerissen wird. Der Rückbau wird Jahre dauern. Und noch immer ist unklar, wo das Endlager für hochradioaktiven Abfall hinkommt.",
+    "image": ""
+  }
 ]

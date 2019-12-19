@@ -6,7 +6,7 @@ import gallery from '../img'
 class Event extends Component {
   state = {
     index:1,
-    visibility: false
+    visibility: true
   };
 
 
@@ -21,8 +21,8 @@ open = () => {
     <li>
       <div className = "date" onClick = {() => this.open()}>{this.props.date} {this.state.visibility ?  <FaCaretUp /> : <FaCaretDown />}</div>
       <h3 className = "headline">{this.props.headline}</h3>
-      <p className = {this.state.visibility ? "text visible" : "text hidden"}>{this.props.text}<br/>
-      <img src={gallery[this.props.image]} alt="" className="image"/>
+      <p className = {this.state.visibility ? "text visible" : "text hidden"}>{this.props.text}<br/><a href={this.props.link}>{this.props.link !== "" ? "... zum Artikel" : ""}</a><br/>
+      {this.props.image !== "" ? <img src={gallery[this.props.image]} alt={this.props.headline} className="image"/> : ""}
       </p>
     </li>
   )}

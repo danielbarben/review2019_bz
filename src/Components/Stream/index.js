@@ -15,13 +15,13 @@ class Stream extends Component {
   componentDidMount() {
     let newEvents = [];
     for (let el in elements) {
-      newEvents.push({'date': elements[el].date, 'headline': elements[el].headline, 'text' : elements[el].text, 'image': elements[el].image})
+      newEvents.push({'date': elements[el].date, 'headline': elements[el].headline, 'text' : elements[el].text, 'image': elements[el].image, 'link': elements[el].link})
     }
     this.setState({events:newEvents});
   }
 
   render() {
-    let List = this.state.events.map((item, index) => <Event date={item.date} headline={item.headline} text={item.text} image={item.image} key={index.toString()}/>)
+    let List = this.state.events.map((item, index) => <Event date={item.date} headline={item.headline} text={item.text} image={item.image} link={item.link} key={index.toString()}/>)
     return <ul className="events">{List}</ul>;
   }
 }
